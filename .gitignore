@@ -1,0 +1,7 @@
+db/index/index_9674bdea-d96e-42b7-a8d5-9b6993fd903c.bin
+requirements.txt
+db/chroma-collections.parquet
+db/chroma-embeddings.parquet
+db/index/id_to_uuid_9674bdea-d96e-42b7-a8d5-9b6993fd903c.pkl
+db/index/index_metadata_9674bdea-d96e-42b7-a8d5-9b6993fd903c.pkl
+db/index/uuid_to_id_9674bdea-d96e-42b7-a8d5-9b6993fd903c.pkl
